@@ -1,0 +1,21 @@
+{
+  "ModId": "NanakoRoute",
+  "ModName": "Nanako Party Member",
+  "ModAuthor": "TigersharkMaxwell",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Description",
+  "ModDll": "NanakoRoute.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/NanakoRoute.dll",
+  "ModR2RManagedDll64": "x64/NanakoRoute.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "NanakoRoute.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}
