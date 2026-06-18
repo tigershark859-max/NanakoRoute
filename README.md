@@ -11,9 +11,8 @@ Implement an alternate story route in which Nanako can awaken to her Persona and
 - ✅ Reloaded II project created
 - ✅ Builds successfully
 - ✅ Asset extraction in progress
-- 🔄 Reverse engineering event scripts
-- 🔄 Researching social link flags
 
+## Tasks
 Task  <strong>Type</strong>  <em>Time</em>
 - Add new key item “Shard of Hope”	<strong>Item</strong>	<em>November 6th</em>
 - Give the player “Shard of Hope” after the cutscene leading to Dungeon 6	<strong>Scripting</strong>	<em>November 6th</em>
