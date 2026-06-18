@@ -14,7 +14,7 @@ Implement an alternate story route in which Nanako can awaken to her Persona and
 - 🔄 Reverse engineering event scripts
 - 🔄 Researching social link flags
 
-Task	Type	Time
+Task  Type  Time
 - Add new key item “Shard of Hope”	Item	November 6th
 - Give the player “Shard of Hope” after the cutscene leading to Dungeon 6	Scripting	November 6th
 - Alter dialogue at start of Dungeon 6 Floor 7	Scripting	November 6th
